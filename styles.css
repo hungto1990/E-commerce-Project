@@ -18,6 +18,9 @@ nav {
 
 img {
     width: 100%;
+}
+
+.img-undraw {
     height: 100%;
     max-height: 50vh;
     padding: 20px;
@@ -231,7 +234,7 @@ FEATURES
 
 .book {
     width: 25%;
-    padding: 4px;
+    padding: 24px;
 }
 
 .book__img {
