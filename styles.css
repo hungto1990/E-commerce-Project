@@ -229,6 +229,11 @@ FEATURES
     display: flex;
 }
 
+.book {
+    width: 25%;
+    padding: 4px;
+}
+
 .book__img {
     max-height: 380px;
 }
